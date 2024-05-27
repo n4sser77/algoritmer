@@ -1,0 +1,14 @@
+/Users/q.a.nasser/Downloads/dotnet/algoritmer/bin/Debug/net8.0/algoritmer
+/Users/q.a.nasser/Downloads/dotnet/algoritmer/bin/Debug/net8.0/algoritmer.deps.json
+/Users/q.a.nasser/Downloads/dotnet/algoritmer/bin/Debug/net8.0/algoritmer.runtimeconfig.json
+/Users/q.a.nasser/Downloads/dotnet/algoritmer/bin/Debug/net8.0/algoritmer.dll
+/Users/q.a.nasser/Downloads/dotnet/algoritmer/bin/Debug/net8.0/algoritmer.pdb
+/Users/q.a.nasser/Downloads/dotnet/algoritmer/obj/Debug/net8.0/algoritmer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/q.a.nasser/Downloads/dotnet/algoritmer/obj/Debug/net8.0/algoritmer.AssemblyInfoInputs.cache
+/Users/q.a.nasser/Downloads/dotnet/algoritmer/obj/Debug/net8.0/algoritmer.AssemblyInfo.cs
+/Users/q.a.nasser/Downloads/dotnet/algoritmer/obj/Debug/net8.0/algoritmer.csproj.CoreCompileInputs.cache
+/Users/q.a.nasser/Downloads/dotnet/algoritmer/obj/Debug/net8.0/algoritmer.dll
+/Users/q.a.nasser/Downloads/dotnet/algoritmer/obj/Debug/net8.0/refint/algoritmer.dll
+/Users/q.a.nasser/Downloads/dotnet/algoritmer/obj/Debug/net8.0/algoritmer.pdb
+/Users/q.a.nasser/Downloads/dotnet/algoritmer/obj/Debug/net8.0/algoritmer.genruntimeconfig.cache
+/Users/q.a.nasser/Downloads/dotnet/algoritmer/obj/Debug/net8.0/ref/algoritmer.dll
